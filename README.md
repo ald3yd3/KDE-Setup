@@ -1,6 +1,6 @@
 # My KDE Plasma Setup
 
-I have just started using plasma , I have shared my setup on  . If are interested in the setup heres how you can replicate it on your system. 
+I have just started using plasma , I have shared my setup on [Reddit](https://www.reddit.com/r/ManjaroLinux/comments/p97y60/using_plasma_for_the_first_time_been_on_manjaro/). If are interested in the setup heres how you can replicate it on your system. 
 
 # Screenshots
 
